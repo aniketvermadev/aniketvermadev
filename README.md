@@ -1,21 +1,47 @@
 # 💫 About Me:
-🔭 I’m currently working on React JS PROJECT...!!<br>👯 I’m looking to collaborate on web development related project.<br>🤝 I’m looking for help with Full Time Jobs Offer.<br>🌱 I’m currently learning Next JS.<br>💬 Ask me about JAVASCRIPT <br>⚡ Fun fact - I am lazy but smart....!!<br>
 
+🔭 Currently working as a Senior Front-End Developer at Seraphic Infosolutions.<br>
+💻 React JS Developer with 4+ years of experience building scalable and responsive web applications.<br>
+🚀 Specialized in React JS, Next.js, JavaScript, and modern frontend architecture.<br>
+🌱 Currently exploring advanced Next.js, performance optimization, and AI-integrated web experiences.<br>
+👯 Open to collaborating on modern web applications, SaaS platforms, and frontend-focused products.<br>
+🤝 Looking for exciting Full-Time, Remote, and Product-Based opportunities.<br>
+💬 Ask me about React JS, JavaScript, Frontend Architecture, Performance Optimization, and UI Development.<br>
+⚡ Fun fact: I turn complex UI designs into pixel-perfect experiences.<br>
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge\&logo=redux\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge\&logo=sass\&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02.svg?style=for-the-badge\&logo=greensock\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=th3-Sumit&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=th3-Sumit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=aniketvermadev\&theme=radical\&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=aniketvermadev\&theme=radical\&hide_border=true\&include_all_commits=true\&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketvermadev\&theme=radical\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=th3-Sumit&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://github-profile-trophy.vercel.app/?username=aniketvermadev\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rajput-SumitSingh&icon=0&color=0)](https://sumitsingh.epizy.com)
+
+[![](https://visitcount.itsvg.in/api?id=aniketvermadev\&icon=5\&color=12)](https://visitcount.itsvg.in)
