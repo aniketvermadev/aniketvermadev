@@ -1,13 +1,14 @@
 # 💫 About Me:
 
-🔭 Currently working as a Senior Front-End Developer at Seraphic Infosolutions.<br>
-💻 React JS Developer with 4+ years of experience building scalable and responsive web applications.<br>
-🚀 Specialized in React JS, Next.js, JavaScript, and modern frontend architecture.<br>
-🌱 Currently exploring advanced Next.js, performance optimization, and AI-integrated web experiences.<br>
-👯 Open to collaborating on modern web applications, SaaS platforms, and frontend-focused products.<br>
-🤝 Looking for exciting Full-Time, Remote, and Product-Based opportunities.<br>
-💬 Ask me about React JS, JavaScript, Frontend Architecture, Performance Optimization, and UI Development.<br>
-⚡ Fun fact: I turn complex UI designs into pixel-perfect experiences.<br>
+💻 **React JS Developer with 4+ years of experience** building scalable, responsive, and user-friendly web applications.<br>
+🚀 Specialized in **React JS, Next.js, JavaScript, TypeScript, and modern frontend architecture**.<br>
+🌱 Currently exploring **advanced Next.js, performance optimization, scalable frontend architecture, and AI-integrated web experiences**.<br>
+🎯 Looking for opportunities where I can work on **complex frontend applications**, solve challenging problems, and contribute to building scalable products.<br>
+🔧 Interested in gaining more **hands-on exposure to backend development, APIs, Node.js, Express.js, and databases** while continuing to grow as a frontend engineer.<br>
+👯 Open to collaborating on **modern web applications, SaaS platforms, and product-focused projects**.<br>
+🤝 Looking for exciting **Full-Time, Remote, and Product-Based opportunities** where I can take ownership and work on meaningful technical challenges.<br>
+💬 Ask me about **React JS, JavaScript, TypeScript, Frontend Architecture, Performance Optimization, API Integration, and UI Development**.<br>
+⚡ Fun fact: **I enjoy turning complex UI designs and requirements into clean, scalable, and pixel-perfect experiences.**
 
 # 💻 Tech Stack:
 
